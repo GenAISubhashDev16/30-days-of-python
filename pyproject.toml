@@ -1,0 +1,17 @@
+[project]
+name = "30-days-of-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "SubhashAndroidDev", email = "vsubhash817@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[project.scripts]
+30-days-of-python = "30_days_of_python:main"
+
+[build-system]
+requires = ["uv_build>=0.12.5,<0.13.0"]
+build-backend = "uv_build"

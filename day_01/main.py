@@ -22,7 +22,7 @@ print(type(True))                # <class 'bool'>
 print(type([1, 2, 3]))           # <class 'list'>
 print(type((1, 2, 3)))           # <class 'tuple'>
 print(type({1, 2, 3}))           # <class 'set'>
-print(type({"name": "Ravi"}))    # <class 'dict'>
+print(type({"name": "Subhash"}))    # <class 'dict'>
 
 # 4. Indentation example
 if 5 > 2:

@@ -2,7 +2,7 @@
 
 **Author:** Subhash Verma | Gen AI Developer
 
-Following the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) challenge by Asabeneh.
+
 
 ## 📂 Progress
 
@@ -11,7 +11,7 @@ Following the [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python)
 | [Day 01](./day_01) | Introduction | ✅ Done |
 | [Day 02](./day_02) | Variables, Built-in Functions & User Input | ✅ Done |
 | [Day 03](./day_03) | Booleans & Operators | ✅ Done |
-| Day 04 | Strings | ⏳ Pending |
+| Day 04 | Strings | ⏳ Pending | ✅ Done |
 | Day 05 | Lists | ⏳ Pending |
 | Day 06 | Tuples | ⏳ Pending |
 | Day 07 | Sets | ⏳ Pending |

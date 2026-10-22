@@ -11,8 +11,8 @@
 | [Day 01](./day_01) | Introduction | ✅ Done |
 | [Day 02](./day_02) | Variables, Built-in Functions & User Input | ✅ Done |
 | [Day 03](./day_03) | Booleans & Operators | ✅ Done |
-| Day 04 | Strings | ⏳ Pending | ✅ Done |
-| Day 05 | Lists | ⏳ Pending |
+| [Day 04] | Strings | ⏳ Pending | ✅ Done |
+| [Day 05] | Lists | ⏳ Pending | ✅ Done |
 | Day 06 | Tuples | ⏳ Pending |
 | Day 07 | Sets | ⏳ Pending |
 | Day 08 | Dictionaries | ⏳ Pending |
@@ -41,16 +41,5 @@ uv run day_03/exercises.py
 - VS Code
 - Git & GitHub
 
-## 📁 Project structure
 
-```
-30-days-of-python/
-├── README.md
-├── day_01/
-│   ├── README.md
-│   ├── main.py
-│   └── exercises.py
-├── day_02/
-├── day_03/
-└── ...
 ```

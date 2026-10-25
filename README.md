@@ -2,8 +2,6 @@
 
 **Author:** Subhash Verma | Gen AI Developer
 
-
-
 ## 📂 Progress
 
 | Day | Topic | Status |
@@ -11,9 +9,9 @@
 | [Day 01](./day_01) | Introduction | ✅ Done |
 | [Day 02](./day_02) | Variables, Built-in Functions & User Input | ✅ Done |
 | [Day 03](./day_03) | Booleans & Operators | ✅ Done |
-| [Day 04] | Strings | ⏳ Pending | ✅ Done |
-| [Day 05] | Lists | ⏳ Pending | ✅ Done |
-| Day 06 | Tuples | ⏳ Pending |
+| [Day 04](./day_04) | Strings | ✅ Done |
+| [Day 05](./day_05) | Lists | ✅ Done |
+| [Day 06](./day_06) | Tuples | ✅ Done |
 | Day 07 | Sets | ⏳ Pending |
 | Day 08 | Dictionaries | ⏳ Pending |
 | Day 09 | Conditionals | ⏳ Pending |
@@ -41,5 +39,9 @@ uv run day_03/exercises.py
 - VS Code
 - Git & GitHub
 
+## 📬 Connect with me
 
-```
+- 🐙 GitHub: [SubhashAndroidDev](https://github.com/SubhashAndroidDev)
+- 💼 LinkedIn: [Subhash Verma](https://www.linkedin.com/in/subhash-verma-396462166/)
+- 📧 Email: [vsubhash817@gmail.com](mailto:vsubhash817@gmail.com)
+- 🌐 Portfolio project: [Funny Emoji World](https://subhashandroiddev.github.io/funny-emoji-world/)

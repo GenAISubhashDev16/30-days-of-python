@@ -41,7 +41,7 @@ uv run day_03/exercises.py
 
 ## 📬 Connect with me
 
-- 🐙 GitHub: [SubhashAndroidDev](https://github.com/GenAISubhashDev16)
+- 🐙 GitHub: [GenAISubhashDev16](https://github.com/GenAISubhashDev16)
 - 💼 LinkedIn: [Subhash Verma](https://www.linkedin.com/in/subhash-verma-396462166/)
 - 📧 Email: [vsubhash817@gmail.com](mailto:vsubhash817@gmail.com)
 - 🌐 Portfolio project: [Funny Emoji World](https://subhashandroiddev.github.io/funny-emoji-world/)
